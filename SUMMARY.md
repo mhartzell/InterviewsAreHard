@@ -19,6 +19,7 @@
   * [RESTful Design](design-and-architecture/untitled-1.md)
   * [Service-Oriented Architecture \(SOA\)](design-and-architecture/untitled.md)
   * [SOLID](design-and-architecture/solid.md)
+* [JavaScript](javascript.md)
 * [Methodology](methodology/README.md)
   * [Agile](methodology/agile/README.md)
     * [Extreme Programming \(XP\)](methodology/agile/extreme-programming-xp.md)
@@ -31,4 +32,10 @@
   * [Refactoring](methodology/refactoring.md)
   * [Test-Driven Development \(TDD\)](methodology/test-driven-development-tdd/README.md)
     * [Unit Testing](methodology/test-driven-development-tdd/unit-testing.md)
+* [Microsoft.NET](microsoft.net/README.md)
+  * [Architecture](microsoft.net/architecture.md)
+  * [C\#](microsoft.net/c.md)
+  * [ASP.NET Core](microsoft.net/asp.net-core.md)
+  * [ASP.NET MVC](microsoft.net/asp.net-mvc.md)
+  * [ASP.NET Web API](microsoft.net/asp.net-web-api.md)
 
