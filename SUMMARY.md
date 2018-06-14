@@ -2,11 +2,11 @@
 
 * [Abstract](README.md)
 * [The Basics](the-basics/README.md)
-  * [Data Structures](the-basics/data-structures.md)
   * [Hardware](the-basics/hardware.md)
+  * [The Operating System \(OS\)](the-basics/the-operating-system-os.md)
   * [HTTP](the-basics/http.md)
   * [Object-Oriented Programming \(OOP\)](the-basics/object-oriented-programming-oop.md)
-  * [The Operating System \(OS\)](the-basics/the-operating-system-os.md)
+  * [Data Structures](the-basics/data-structures.md)
 * [Architecture and Design](design-and-architecture/README.md)
   * [Design Patterns](design-and-architecture/design-patterns/README.md)
     * [Anti-Patterns](design-and-architecture/design-patterns/anti-patterns.md)
