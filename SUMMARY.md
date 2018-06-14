@@ -3,5 +3,6 @@
 * [Abstract](README.md)
 * [The Basics](the-basics/README.md)
   * [Object-Oriented Programming \(OOP\)](the-basics/object-oriented-programming-oop.md)
-* [Architecture and Design](design-and-architecture.md)
+* [Architecture and Design](design-and-architecture/README.md)
+  * [SOLID](design-and-architecture/solid.md)
 
