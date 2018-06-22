@@ -10,6 +10,7 @@
     * [Encapsulation](the-basics/object-oriented-programming-oop/encapsulation.md)
     * [Inheritance](the-basics/object-oriented-programming-oop/inheritance.md)
     * [Polymorphism](the-basics/object-oriented-programming-oop/polymorphism.md)
+    * [Terminology](the-basics/object-oriented-programming-oop/terminology.md)
   * [Data Structures](the-basics/data-structures.md)
 * [Architecture and Design](design-and-architecture/README.md)
   * [Design Patterns](design-and-architecture/design-patterns/README.md)
