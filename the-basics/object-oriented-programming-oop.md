@@ -4,3 +4,10 @@ Object-oriented programming \(OOP\) is a programming paradigm based on the conce
 
 OOP contrasts sharply with the philosophy of Procedural Programming, which uses procedures \(also known as routines, subroutines, or functions\) which simply contain a series of computational steps to be carried out.
 
+The main tenants of OOP are:
+
+* Abstraction
+* Encapsulation
+* Inheritance
+* Polymorphism
+
