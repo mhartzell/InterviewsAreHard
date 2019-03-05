@@ -19,6 +19,7 @@
     * [Creational Patterns](design-and-architecture/design-patterns/creational-patterns.md)
     * [Enterprise Patterns](design-and-architecture/design-patterns/enterprise-patterns.md)
     * [Structural Patterns](design-and-architecture/design-patterns/untitled.md)
+  * [Documentation](design-and-architecture/documentation.md)
   * [Microservices Architecture](design-and-architecture/microservices-architecture.md)
   * [OAuth](design-and-architecture/oauth.md)
   * [RESTful Design](design-and-architecture/untitled-1.md)

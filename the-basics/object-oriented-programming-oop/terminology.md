@@ -3,7 +3,7 @@
 
 
 | Abstract Method | A signature with no implementation body, often used to specify that a subclass must provide an implementation of the method. |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Abstract Type | A type that cannot be instantiated directly, and may provide no implementation, or an incomplete implementation. |
 | Access Modifiers | Keywords in object-oriented languages that set the accessibility of classes, methods, and other members. |
 | Base Class | A class from which another class inherits from. |
