@@ -14,6 +14,6 @@ This purpose of this content is to function as a repository for every piece of a
 
 You are already a great developer.  You know it. I know it. The challenge is, can you demonstrate to a potential employer that know it?  Passing a technical interview is one of the most sure-fire ways to communicate to a potential employer that you are worthy of the substantial paycheck they are going to give to you \(you did negotiate, right?\).
 
-I hope that the knowledge I've gathered here, in pursuit of success in my own career, will be as beneficial to you as it has to me!  
+I hope that the knowledge I've gathered here, in pursuit of success in my own career, will be as beneficial to you as it has to me!
 
 
