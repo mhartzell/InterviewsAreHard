@@ -4,9 +4,9 @@ version: 2
 
 python:
   version: 3.7
-  install:
-     - method: pip
-       path: .
+  #install:
+  #   - method: pip
+  #     path: .
 
 mkdocs:
   configuration: mkdocs.yml
