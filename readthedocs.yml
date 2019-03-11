@@ -3,6 +3,7 @@
 version: 2
 
 python:
+  # This can be bumped when MkDocs supports Python 3.7
   version: 3.6
   #install:
   #   - method: pip
