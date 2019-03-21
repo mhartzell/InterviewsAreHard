@@ -99,3 +99,8 @@ Polymorphism means “one name, many forms”, or the ability to present the sam
 | Virtual Function | An inheritable and overridable function or method for which dynamic dispatch is facilitated. |
 | Weakly Typed | A language that dynamically resolves types at run-time. | 
 | Weak Reference | A reference that does not protect the referenced object from collection by a garbage collector, unlike a strong reference. |
+
+## References
+[Glossary of Object-Oriented Terms](https://www.clear.rice.edu/mech517/Books/oop14.pdf)
+[Index of Object-Oriented Programming Articles](https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles)
+[Object-Oriented Programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)
