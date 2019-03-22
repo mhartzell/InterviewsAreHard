@@ -43,7 +43,7 @@ Polymorphism means “one name, many forms”, or the ability to present the sam
 - An object that implements multiple interfaces is polymorphic, in that the same object can be treated as an implementation for one interface or the other.  
 - A MemoryStream can be treated as its base type, Stream.
 
-## Key Terminology
+# Key Terminology
 | Term            | Definition                                                                                                                   |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------|
 | Abstract Method | A signature with no implementation body, often used to specify that a subclass must provide an implementation of the method. |
@@ -100,7 +100,7 @@ Polymorphism means “one name, many forms”, or the ability to present the sam
 | Weakly Typed | A language that dynamically resolves types at run-time. | 
 | Weak Reference | A reference that does not protect the referenced object from collection by a garbage collector, unlike a strong reference. |
 
-## References
+# References
 - [Glossary of Object-Oriented Terms](https://www.clear.rice.edu/mech517/Books/oop14.pdf)
 - [Index of Object-Oriented Programming Articles](https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles)
 - [Object-Oriented Programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)
