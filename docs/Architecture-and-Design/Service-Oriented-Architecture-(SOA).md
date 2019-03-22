@@ -49,7 +49,7 @@ It is not possible to communicate some requirements for service interaction in W
 - Service will not operate if policies are not satisfied
 - Policies allows the behavior of a service to be separated from the constraints of accessing the service
 
-## Key Terminology
+# Key Terminology
 
 | Term | Definition                          |
 |------|-------------------------------------|
@@ -77,7 +77,7 @@ It is not possible to communicate some requirements for service interaction in W
 | SOAP | SOAP is the basic protocol of Web Services. As an XML-based format, it defines the format of the header and body of a Web Services message. |
 
 
-## References
+# References
 - [Four Tenets of Service Orientation, The](http://www.soainstitute.org/resources/articles/four-tenets-service-orientation)
 - [Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 - [Service Oriented Architecture (SOA)](https://msdn.microsoft.com/en-us/library/bb833022.aspx)
