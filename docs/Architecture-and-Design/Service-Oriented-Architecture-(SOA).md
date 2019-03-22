@@ -51,4 +51,36 @@ It is not possible to communicate some requirements for service interaction in W
 
 ## Key Terminology
 
+| Term | Definition                          |
+|------|-------------------------------------|
+| BPEL | Business Process Execution Language |
+| Business Process | A structured description of the activities or tasks that have to be done to fulfill a certain business need. |
+| Callback | A message exchange pattern where a service consumer sends a request message but does not block and wait for a reply. Instead, it defines a callback function that is called later, when the response message sent by the service provider arrives.  |
+| Consumer | The channels that are used to access business processes, services, and applications. |
+| Contract | The complete description of a service interface between one consumer and one provider. It includes the technical interface (signature), the semantics, and nonfunctional aspects such as service-level agreements.  |
+| CORBA | Common Object Request Broker Architecture |
+| Domain | A definable (business) area or scope that plays a specific role and/or has a specific responsibility. |
+| Enterprise Architecture | The practice of applying a comprehensive and rigorous method for describing a current and/or future structure and behavior for an organization's processes, information systems, personnel and organizational sub-units, so that they align with the organization's core goals and strategic direction. |
+| Enterprise Service Bus | The infrastructure of a SOA landscape that enables the interoperability of services. Its core task is to provide connectivity, data transformations, and (intelligent) routing so that systems can communicate via services. |
+| Event | A notification sent to a more or less well-known set of receivers (consumers). Usually, the receivers of an event have to subscribe for a certain type of event (sent by a certain system or component). |
+| Fire and Forget | A one-way message. |
+| Governance | The task of "making sure that people do what’s right", in terms of architectural decisions, processes, tools, and policies.  |
+| HTTP | Hypertext Transfer Protocol. The fundamental protocol of the World Wide Web. |
+| Idempotency | The ability of services to deal with messages that are delivered more than once so that redeliveries do not have unintended effects.  |
+| Interoperability | The ability of different systems to communicate with each other. |
+| Message | A chunk of data sent around as part of a service call. |
+| OASIS | Organization for the Advancement of Structured Information Standards |
+| Request | A message that is sent by a consumer as an initial message in most message exchange patterns. |
+| Response | A message that is sent by a provider as an answer to a service request. |
+| Service | A discoverable resource that executes a repeatable task, and is described by an externalized service specification. |
+| Service Components | The building blocks of a service.  Can potentially be reused across multiple services. |
+| SOAP | SOAP is the basic protocol of Web Services. As an XML-based format, it defines the format of the header and body of a Web Services message. |
+
+
 ## References
+- [Four Tenets of Service Orientation, The](http://www.soainstitute.org/resources/articles/four-tenets-service-orientation)
+- [Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- [Service Oriented Architecture (SOA)](https://msdn.microsoft.com/en-us/library/bb833022.aspx)
+- [Service Orientation SOA Glossary](http://serviceorientation.com/soaglossary/index)
+- [SOA in Practice: SOA Glossary](http://www.soa-in-practice.com/soa-glossary.html)
+- [SOA terminology overview, Part 1](http://www.ibm.com/developerworks/library/ws-soa-term1/)
