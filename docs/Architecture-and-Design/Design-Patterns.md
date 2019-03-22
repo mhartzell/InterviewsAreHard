@@ -13,3 +13,4 @@ Abstract Factory provides a level of indirection that abstracts the creation of 
 
 This mechanism makes exchanging product families easy because the specific class of the factory object appears only once in the application - where it is instantiated (usually as a singleton). The application can wholesale replace the entire family of products simply by instantiating a different concrete instance of the abstract factory.
 
+![Abstract Factory](https://www.dofactory.com/images/diagrams/net/abstract.gif)
