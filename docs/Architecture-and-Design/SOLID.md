@@ -45,5 +45,5 @@ Additionally, abstractions should not depend on details. Details should depend o
 ### Examples
 - A domain layer should not depend directly on a data access layer.  A domain layer should depend on an abstracted service interface, which the data access implements.  The data layer is then injected into the domain layer.
 
-## References
+# References
 - [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
