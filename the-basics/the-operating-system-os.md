@@ -1,2 +1,0 @@
-# The Operating System \(OS\)
-
