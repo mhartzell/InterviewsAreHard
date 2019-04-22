@@ -16,6 +16,9 @@ In multithreaded workflows you assign tasks to workers.  Many tasks are not proc
 ## Synchronization Challenges
 Multithreaded operations must synchronize access to share resources, as problems can occur when multiple threads try to modify these resources at the same time.
 
+### Race Conditions
+A race condition occurs when the correctedness of a program depends on the relative timing of events in two or more concurrent operations.
+
 ### Locks
 A lock can be placed on a shared resource, so that only one thread modify that resource at a time.
 
