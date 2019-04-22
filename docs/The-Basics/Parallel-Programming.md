@@ -23,7 +23,7 @@ A race condition occurs when the correctedness of a program depends on the relat
 A lock can be placed on a shared resource, so that only one thread modify that resource at a time.
 
 # Concurrency
-Concurrency referes to the ability of the parts of a program, algorithm, or problem to be excecuted out-of-order or in partial order without affecting the final outcome of the work.  This can significantly improve the overall speed of execution in multi-processor/multi-core systems.
+Concurrency the ability of the parts of a program, algorithm, or problem to be excecuted out-of-order or in partial order without affecting the final outcome of the work.  This can significantly improve the overall speed of execution in multi-processor/multi-core systems.
 
 # References
 - [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
