@@ -23,5 +23,5 @@ A lock can be placed on a shared resource, so that only one thread modify that r
 Concurrency referes to the ability of the parts of a program, algorithm, or problem to be excecuted out-of-order or in partial order without affecting the final outcome of the work.  This can significantly improve the overall speed of execution in multi-processor/multi-core systems.
 
 # References
-- [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)
+- [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
 - [What is the difference between ansynchronous programming and multithreading?](https://stackoverflow.com/questions/34680985/what-is-the-difference-between-asynchronous-programming-and-multithreading)
