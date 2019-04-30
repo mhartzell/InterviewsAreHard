@@ -12,11 +12,11 @@ A quick overview of the F# syntax.
 | `..` | Creates a range (i.e. `let myList = [1..100]`) |
 | `@` | Concats two lists together |
 | `( )` | Clarify precedence of execution |
-| `\|>` | Pipe the result of one operation to the input of another |
+| `|>` | Pipe the result of one operation to the input of another |
 | `fun` | Define lambdas, or use for verbose function declaration syntax |
 | (Implicit returns) | Functions always return the last expression specified |
 | `match..with` | Pattern matching, similar to case statements |
-| `\|` | ? |
+| `|` | ? |
 | `_` | Matches anything |
 | `Some(x)` | Analogous to a nullable wrapper |
 | `None` | A null value |
