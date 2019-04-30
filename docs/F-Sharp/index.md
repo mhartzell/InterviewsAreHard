@@ -1,4 +1,4 @@
-# F#
+# F\#
 F# is a functional programming language.
 
 ## Benefits
