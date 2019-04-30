@@ -27,3 +27,4 @@ A quick overview of the F# syntax.
 | `type` | Defines a new type |
 | `printf` | Simliar to `Console.Write` |
 | `printfn` | Similar to `Console.WriteLine` |
+| `open` | Same as the C# `using` statement |
