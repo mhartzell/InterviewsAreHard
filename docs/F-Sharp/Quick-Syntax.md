@@ -22,3 +22,5 @@ A quick overview of the F# syntax.
 | `None` | A null value |
 | `1,2,"A string"` | A tuple |
 | `type` | Defines a new type |
+| `printf` | Simliar to `Console.Write` |
+| `printfn` | Similar to `Console.WriteLine` |
