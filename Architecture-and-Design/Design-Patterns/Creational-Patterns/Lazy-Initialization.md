@@ -1,0 +1,3 @@
+# Lazy Initialization (Lazy Loading)
+
+Lazy initialization is the tactic of delaying the creation of an object, the calculation of a value, or some other expensive process until the first time it is needed.  This is typically accomplished by augmenting a variable's accessor method (or property definition) to check for a previously-created instance. If none exists a new instance is created, placed into the variable, and this new object is returned to the caller in a just-in-time fashion. In this manner object creation is deferred until first use which can, in some circumstances (e.g., sporadic object access), increase system responsiveness and speed startup by bypassing large-scale object preallocation.

@@ -1,5 +1,4 @@
 # Welcome
-
 Interviews are hard.  
 
 In particular, interviews in a technical field can be **really** hard.  I’ve had far more than my fair share of awkward, uncomfortable interviews, where I knew the interviewer was looking for a specific answer, and I could not fumble my way into it for the life of me.  Early on in my career, I decided that while I may not know the answer to every technical question in an interview, I would not miss the same answer **twice**.
@@ -11,7 +10,6 @@ You are already a great developer.  You know it. I know it. The challenge is, ca
 I hope that the knowledge I've gathered here, in pursuit of success in my own career, will be as beneficial to you as it has to me!
 
 # Table of Contents
-
 - [The Basics](The-Basics/index.md)
 - [Architecture and Design](Architecture-and-Design/index.md)
 - [Career Advice](Career/index.md)
