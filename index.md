@@ -12,4 +12,11 @@ I hope that the knowledge I've gathered here, in pursuit of success in my own ca
 
 # Table of Contents
 
-Test 2
+- [The Basics](The-Basics/index.md)
+- [Architecture and Design](Architecture-and-Design/index.md)
+- [Career Advice](Career/index.md)
+- [DotNet](DotNet/index.md)
+  - [C#](DotNet/C-Sharp/index.md)
+  - [F#](DotNet/F-Sharp/index.md)
+- [Methodology](Methodology/index.md)
+- [Security](Security/index.md)
