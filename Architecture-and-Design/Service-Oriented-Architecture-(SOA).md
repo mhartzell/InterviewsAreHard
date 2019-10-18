@@ -1,5 +1,6 @@
-# Service-Oriented Architecture
+[<< Back to Architecture and Design](index.md)
 
+# Service-Oriented Architecture
 A service oriented architectureis an architectural pattern wherein services are provided to the other components by application components, through a communication protocol over a network. The basic fundamental principles of service oriented architecture is independent of vendors, products and technologies.   SOA is an architectural approach to creating systems built from autonomous services (typically web services).
 
 There are four characteristics of a service:

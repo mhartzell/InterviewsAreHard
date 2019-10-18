@@ -1,5 +1,6 @@
-# Structural Patterns
+[<< Back to Design Patterns](../index.md)
 
+# Structural Patterns
 Structural design patterns ease the design by identifying a simple way to realize relationships between entities.
 
 # Table of Contents

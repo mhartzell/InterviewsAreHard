@@ -1,5 +1,6 @@
-# Behavioral Patterns
+[<< Back to Design Patterns](../index.md)
 
+# Behavioral Patterns
 Behavioral design patterns identify common communication patterns between objects and realize these patterns. By doing so, these patterns increase flexibility in carrying out this communication.
 
 # Table of Contents
