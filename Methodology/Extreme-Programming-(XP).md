@@ -1,3 +1,5 @@
+[<< Back to Methodology](index.md)
+
 # Extreme Programming (XP)
 
 A flavor of Agile that takes the beneficial elements of traditional software engineering practices to “extreme” levels.  It is characterized by:

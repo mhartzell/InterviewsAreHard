@@ -1,3 +1,5 @@
+[<< Back to Methodology](index.md)
+
 # Continuous Integration
 Continuous integration is the practice of merging all developer working copies to a shared mainline on a highly frequent basis.  CI mitigates merge / integration hell by merging early and often.  It greatly depends on robust, automated unit tests that are run on every build, which is triggered upon every commit (or, after a slight delaying trigger).  
 

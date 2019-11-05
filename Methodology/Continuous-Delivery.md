@@ -1,3 +1,5 @@
+[<< Back to Methodology](index.md)
+
 # Continuous Delivery
 Continuous delivery is an approach where teams produce software in short cycles, ensuring the software can be released reliably at any moment.  While Continuous Deployment automates the deployment of code to production, Continuous Delivery ensures that software can reliably be released at any moment, but requires human intervention to decide when to release to production.  
 
