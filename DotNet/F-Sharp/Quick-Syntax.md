@@ -1,4 +1,4 @@
-[<< Back to F#](../index.md)
+[<< Back to F#](index.md)
 
 # Quick Syntax
 A quick overview of the F# syntax.

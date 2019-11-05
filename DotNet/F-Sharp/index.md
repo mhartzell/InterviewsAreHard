@@ -1,5 +1,10 @@
+[<< Back to .NET](../index.md)
+
 # F\#
 F# is a functional programming language.
+
+# Table of Contents
+- [Quick Syntax](Quick-Syntax.md)
 
 ## Benefits
 

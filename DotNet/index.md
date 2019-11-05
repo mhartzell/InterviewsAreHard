@@ -6,7 +6,9 @@
 # Table of Contents
 - [Architecture](Architecture.md)
 - [Asynchronous Programming](Asynchronous-Programming.md)
+- [C#](C-Sharp/index.md)
 - [Delegates](Delegates.md)
+- [F#](F-Sharp/index.md)
 - [Garbage Collection](Garbage-Collection.md)
 - [Generics](Generics.md)
 - [LINQ](Linq.md)
