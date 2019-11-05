@@ -1,3 +1,5 @@
+[<< Back to The Basics](index.md)
+
 # Parallel Programming
 There are a variety of ways to harness the the computer's ability to execute operations in parallel.
 
