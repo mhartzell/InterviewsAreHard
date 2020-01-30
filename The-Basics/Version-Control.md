@@ -34,6 +34,19 @@ In this case, a merge must be performed, which is a new commit that draws both s
 
 ![Merge](img/merge.png)
 
-Just like before, this merge remains a local commit until it is pushed to the central server.  
+Just like before, this merge remains a local commit until it is pushed to the central server. 
 
-## Branching
+# Open Source
+The following features of distributed version controls system are especially helpful for open source projects and workflows:
+
+- Forks
+- Pull Requests
+- Branches
+
+A typical for contributing to an open source project is:
+
+- Fork the project
+- Clone the repository locally
+- Make a change (probably in a branch)
+- Commit and push to the fork
+- Issue a pull request from the fork to the original project
