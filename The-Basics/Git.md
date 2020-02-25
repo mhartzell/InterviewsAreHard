@@ -8,13 +8,6 @@ At the most fundamental level, Git is a persistent map or hash set, assigning so
 
 Git acts similarly to a file system, in that it stores snapshots of the entire project at each commit.  Umodified files do not get stored again but reference the most recent version of that file.  Because Git stores all snapshots, commits and history locally, most operations are very fast.
 
-## File Stages
-
-- **Untracked** Files are not tracked by Git
-- **Committed** Files are tracked by Git.
-- **Modified** Changes to a file have been made.  WIP.
-- **Staged** Changes are committed to local database.
-
 ## Git Projects
 Git uses the following project structure:
 
@@ -23,6 +16,23 @@ Git uses the following project structure:
 - **Staging Area (Index)** Sits between working directory and git directory. Stages fixes that will be committed, which will then be committed back to the .git directory.
 
 ![Merge](img/gitProject.png)
+
+## Git Objects
+Git has only a handful of base object types it uses to store information in its database:
+
+- **Blobs** An arbitrary bit of content
+- **Trees** Equivalent of directories
+- **Commits** Versioning information
+- **Annotated Tags** A label
+
+In the end, Git was designed very similarly to a higher-level file system, mimicking the behavior of files, directories and links. 
+
+## File Stages
+
+- **Untracked** Files are not tracked by Git
+- **Committed** Files are tracked by Git.
+- **Modified** Changes to a file have been made.  WIP.
+- **Staged** Changes are committed to local database.
 
 # Commands
 
@@ -51,7 +61,9 @@ Git uses the following project structure:
 - `git commit -m "<msg>"` Add commit message
 - `git push` Push commits to a remote repository
 - `git log` Show a log of commits
+- `git tag -a <TagName>` Create a tag
 
 ## Plumbing Commands
 - `git hash-object` Print the SHA1 hash for some bit of content
-- `git cat-file` Display the contents in a .git file
+- `git cat-file -p` Show the contents of a git database object
+- `git count-objects` Counts the quantity and space of git database objects
